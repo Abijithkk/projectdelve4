@@ -1,0 +1,48 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Agbalumo&family=Alumni+Sans+Inline+One&family=Anton&family=Bebas+Neue&family=Cormorant&family=Fugaz+One&family=Lobster&family=Playfair+Display&family=Poppins&family=Righteous&family=Roboto:ital,wght@0,300;0,400;1,100&family=Tangerine:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Muli&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Quicksand&display=swap');
+
+body {
+  margin: 0;
+}
+#bt{
+  font-family: 'Alumni Sans Inline One';
+}
+#footer{
+  background-color: rgb(0, 0, 0);
+  width: 100%;
+  color: white;
+}
+#head{
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 700;
+ 
+  color: rgb(0, 221, 255);
+
+}
+p{
+  font-family: 'Roboto', sans-serif;
+ font-stretch:ultra-expanded
+}
+b{
+  font-family: 'Bebas Neue', sans-serif;
+  font-weight: 700;
+  color: rgb(0, 221, 255);
+}
+.h2{
+  font-family: 'Bebas Neue', sans-serif;
+}
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+input {
+  width: 100%;
+  font-family: 'Bebas Neue';
+  color: blue;
+}
+Button{
+ font-family: 'Agbalumo';
+}
